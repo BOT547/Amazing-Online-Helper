@@ -12,6 +12,18 @@
 
 Совместимость — тестировалось на Windows 11 (для Windows 10 работоспособность не гарантируется).
 
+
+
+<img width="1519" height="805" alt="image" src="https://github.com/user-attachments/assets/0fe73c1f-c7a7-4a2b-8a00-fa4f1f4fa80c" />
+
+
+<img width="1350" height="677" alt="image" src="https://github.com/user-attachments/assets/2035db0b-5112-42ec-81a8-a5c93d34f76c" />
+
+
+<img width="1335" height="691" alt="image" src="https://github.com/user-attachments/assets/6f9562b1-63f5-45cc-a848-da3aa467fb34" />
+
+<img width="1528" height="770" alt="image" src="https://github.com/user-attachments/assets/0b48cc29-6285-4e70-a6ed-d2105da61748" />
+
 # Дополнительно
 
 Программа всё ещё находится в разработке, поэтому возможны баги. Если вы обнаружите ошибки, пожалуйста, сообщите мне.
