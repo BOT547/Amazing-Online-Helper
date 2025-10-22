@@ -1,5 +1,5 @@
 ﻿#CommentFlag //
-#include common.ahk
+#include %A_ScriptDir%\common.ahk
 
 
 
