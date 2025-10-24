@@ -33,6 +33,8 @@
 
 🙏 Благодарности: @Drygok (GitHub) https://github.com/Drygok
 
+Наша группа вк: https://vk.com/amazing_helper
+
 💡 Важно: Браузеры, антивирусники и VirusTotal могут выдавать предупреждения. Это связано с тем, что в программе используется AHK.exe, и мой exe не подписан цифровой подписью.
 
 ссылка: [https://www.virustotal.com/gui/file/b6849ac400be66619ecbd8a56307aea3d1be828a56cb19ba6cda5660a2de5f9c?nocache=1](https://www.virustotal.com/gui/file/204a71ac10ea857a39b14a42b14117b05b64fb7f7ed4ec5a50ec748fb54dbf2a?nocache=1)
