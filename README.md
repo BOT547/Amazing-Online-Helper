@@ -35,6 +35,7 @@
 
 💡 Важно: Браузеры, антивирусники и VirusTotal могут выдавать предупреждения. Это связано с тем, что в программе используется AHK.exe, и мой exe не подписан цифровой подписью.
 
-ссылка: https://www.virustotal.com/gui/file/b6849ac400be66619ecbd8a56307aea3d1be828a56cb19ba6cda5660a2de5f9c?nocache=1
+ссылка: [https://www.virustotal.com/gui/file/b6849ac400be66619ecbd8a56307aea3d1be828a56cb19ba6cda5660a2de5f9c?nocache=1](https://www.virustotal.com/gui/file/204a71ac10ea857a39b14a42b14117b05b64fb7f7ed4ec5a50ec748fb54dbf2a?nocache=1)
+https://www.virustotal.com/gui/file/6fe5e2d70085ade749a6bfd90b7533de21ce90e7bd9b66d9283a901555ec5c86?nocache=1
 
 📅 Дата официального релиза: конец октября 2025 года
